@@ -1,0 +1,4 @@
+name: niuyiniu
+description: "Keyword trigger: 扭一扭 → run script directly without AI"
+events:
+  - command:扭一扭
